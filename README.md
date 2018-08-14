@@ -1,3 +1,5 @@
+This list includes non-vegan restaurants with legitimate vegan options. Soon, it will be better categorized and labeled to reflect this.
+
 Items marked with a :star: are recommended, while items marked with a :star::star: are particularly recommended for a unique experience. Some places are listed under both SF and East Bay if they have multiple locations or are food trucks that may be in either area.
 
 # San Francisco:
@@ -19,7 +21,7 @@ Items marked with a :star: are recommended, while items marked with a :star::sta
 * Pancho Villa Taqueria (has tofu burrito options, 1. 16th and Mission, 2. sister location at 17th and Valencia)
 * Coffee Mission (coffee shop with many vegan milk options and usually some vegan pastries, 24th and Mission)
 * Frena Bakery (many vegan baked goods including traditional Jewish bakery items, 6th and Mission)
-* CyBelle's Front Room (Italian with a large and exciting vegan menu in addition to a conventional menu, Inner Sunset)
+* :star: CyBelle's Front Room (Italian with an extensive vegan menu in addition to a conventional menu, Inner Sunset)
 * Holy Gelato! (Inner Sunset)
 * Donut Farm (various types of donuts, SF location is only a pop-up kiosk with limited options, 1. Oakland, 2. SF Ferry Building)
 * Flying Falafel (mediterranean, 1. Berkeley, 2. Mid-Market)
@@ -33,6 +35,7 @@ Items marked with a :star: are recommended, while items marked with a :star::sta
 * Lucky Creation Vegetarian (vegetarian and possibly all vegan Chinese food, Chinatown)
 * :star: The Sarap Shop Food Truck (Filipino, has meat options but their tofu vegan sisig is highly recommended, food truck usually in the SoMa StrEat Food Park)
 * No Worries (all-vegan Filipino, usually in Oakland but sometimes in the SoMa StrEat Food Park)
+:star: Nucha Empanadas (has various vegan empanadas made with vegan butter including meat substitutes, vegan cream cheese, etc., found at various farmer's markets and food truck parks including the SoMa StrEat Food Park)
 * Ike's Love and Sandwiches (has various vegan meats and vegan cheeses/sauces/breads, FiDi and other locations throughout the Bay Area)
 * Shangri-La (vegetarian Chinese, Sunset)
 * Vegan Picnic (Cow Hollow)
